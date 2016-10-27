@@ -1,4 +1,5 @@
-# ~~benny-hill~~tjing-tjang-tjing
+# ~~benny-hill~~
+#tjing-tjang-tjing
 
 Play the Tjing Tjang Tjing Theme while running another command
 
