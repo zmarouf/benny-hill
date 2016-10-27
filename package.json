@@ -1,21 +1,22 @@
 {
-  "name": "benny-hill",
-  "version": "1.1.0",
-  "description": "Play the Benny Hill theme while running another command",
+  "name": "tjing-tjang-tjing",
+  "version": "0.0.1",
+  "description": "Play the Tjing Tjang Tjing theme while running another command (See benny-hill)",
   "bin": {
-    "benny-hill": "./bin.js"
+    "ttt": "./bin.js"
   },
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/benny-hill.git"
+    "url": "https://github.com/zmarouf/benny-hill.git"
   },
   "author": "Mathias Buus (@mafintosh)",
+  "contributors": ["Zeid Marouf (@zmarouf)"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/benny-hill/issues"
+    "url": "https://github.com/zmarouf/tjing-tjang-tjing/issues"
   },
-  "homepage": "https://github.com/mafintosh/benny-hill"
+  "homepage": "https://github.com/zmarouf/tjing-tjang-tjing"
 }
